@@ -10,6 +10,7 @@ This is an individual assessment. All work must be your own. Your challenge scor
 
 You are not allowed to collaborate during the Sprint Challenge. Your work reflects your proficiency in user interface and your command of the concepts and techniques in semantic HTML, CSS fundamentals, CSS flexbox module, and git.
 
+You have three hours to complete this challenge. Plan your time accordingly.
 
 ## Commits
 
@@ -25,22 +26,31 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 
 [Click here for the about page example](https://tk-assets.lambdaschool.com/ede1bb1a-63ff-4801-8c02-3efa2f603190_sprint-challenge-ui-about-example.png)
 
-## Self-Study Questions 
-### (please edit this file and write your answer below each question. In addition, you may also review these questions with your mentor)
+## Self-Study Questions
 
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
 
-Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
+Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+A semantic html tag is used to cleary describe the meaning of the element.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Inline takes up as much width as it needs, where block only uses the available width.
 
 3. What are the 4 areas of the box model?
 
+content,padding,border,margin
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+Allows everyone to utilize trackable contributions, while marking version makes it easy to revert to previous versions.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
